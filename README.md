@@ -1,1 +1,1 @@
-# Autommating-spreadsheets
+# Automating-spreadsheets
